@@ -1,8 +1,8 @@
 # Tweeter-clone-ios
 
-Implement using swiftUI
-with Firebase database and Firestore
-Images were stored in firebase storage
+Implement using swiftUI.
+with Firebase database and Firestore.
+Images were stored in firebase storage.
 
 App features :
   Register new user.
